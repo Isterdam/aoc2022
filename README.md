@@ -6,7 +6,7 @@ Solutions to the [Advent of Code 2022](https://adventofcode.com/ "AoC").
 
 | Day | Status |   Languages  |
 |:---:|:------:|:------------:|
-|  1  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/1)  |    Python   |
+|  1  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/1)  |    F#   |
 |  2  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/2)  |    Rockstar   |
 |  3  |    |       |
 |  4  |    |       |
