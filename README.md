@@ -1,6 +1,6 @@
-# Advent of Code 2020 - Solutions
+# Advent of Code 2022 - Solutions
 
-Solutions to the [Advent of Code 2020](https://adventofcode.com/ "AoC").
+Solutions to the [Advent of Code 2022](https://adventofcode.com/ "AoC").
 
 <center>
 
