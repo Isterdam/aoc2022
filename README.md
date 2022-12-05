@@ -10,7 +10,7 @@ Solutions to the [Advent of Code 2022](https://adventofcode.com/ "AoC").
 |  2  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/2)  |    Rockstar   |
 |  3  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/3)  |    Haskell   |
 |  4  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/4)  |    Bash   |
-|  5  |    |       |
+|  5  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/5)  |    Python   |
 |  6  |    |       |
 |  7  |    |       |
 |  8  |    |       |
