@@ -28,7 +28,5 @@ group_by_three [] = []
 group_by_three rows = (take 3 rows) : (group_by_three (drop 3 rows))
 
 halve :: [a] -> ([a], [a]) 
-halve xs = 
-    ((take s xs), (drop s xs))
-    where
-        s = (length xs) `div` 2
+halve xs = ((take s xs), (drop s xs))
+    where s = (length xs) `div` 2
