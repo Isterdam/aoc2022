@@ -12,7 +12,7 @@ Solutions to the [Advent of Code 2022](https://adventofcode.com/ "AoC").
 |  4  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/4)  |    Bash   |
 |  5  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/5)  |    Python   |
 |  6  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/6)  |    Python   |
-|  7  |    |       |
+|  7  |  [Done](https://github.com/Isterdam/aoc2022/tree/main/src/7)  |    Python   |
 |  8  |    |       |
 |  9  |    |       |
 |  10  |    |       |
