@@ -15,7 +15,7 @@ for line in lines:
         curr_dir.pop() # pop dir from stack
     elif '$ cd' in line:
         curr_dir.append(line.split()[2]) # push current dir to stack
-    elif '$ ls' in line:
+    elif '$ ls' == line:
         continue
     else:
         if 'dir' in line:
